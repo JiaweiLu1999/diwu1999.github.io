@@ -1,0 +1,38 @@
+basics:
+  name: "Di Wu"
+  label: "ARAD student @ Columbia Univeristy"
+  # picture: /assets/img/
+  email: "dw2976@tc.columbia.edu"
+  phone: "(+1) 917-679-8990"
+  website: "https://diwu.studio"
+
+
+  location:
+    address: "400 West 113th St"
+    postalCode: "NY 10025"
+    city: "New York"
+    countryCode: "US"
+  profiles:
+
+    - network: "LinkedIn"
+      username: "Di Wu"
+      url: "https://www.linkedin.com/in/diwu99/"
+    - network: "Github"
+      username: "diwu1999"
+      url: "https://github.com/diwu1999"
+
+# volunteer:
+#   - organization: ""
+#     position: ""
+#     website: ""
+#     startDate: ""
+#     endDate: ""
+#     summary: ""
+#     highlights:
+  
+# references:
+#   - name: ""
+#     reference: >
+#
+
+# <https://jsonresume.org/>
